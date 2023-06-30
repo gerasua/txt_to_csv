@@ -1,7 +1,7 @@
 Hostname,OS Version,System Date,System Uptime,Installed Kernel Date,Installed Kernel,Available Kernel
-inv2279.nxdi.us-cdc01.nxp.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:23:27 MST 2023,283,Wed Jul 27 01:28:21 2022  ,kernel-3.10.0-1160.66.1.el7.x86_64,3.10.0-1160.88.1.el7
-inv2307.nxdi.us-cdc01.nxp.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:23:43 MST 2023,93,Tue Mar 2 04:28:47 2021  ,kernel-3.10.0-1160.15.2.el7.x86_64,3.10.0-1160.88.1.el7
-inv1628079230.nxdi.us-cdc01.nxp.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:24:00 MST 2023,106,Wed Aug 4 06:21:24 2021  ,kernel-3.10.0-1160.25.1.el7.x86_64,3.10.0-1160.88.1.el7
-inv1628079117.nxdi.us-cdc01.nxp.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:24:23 MST 2023,371,Wed Aug 4 06:19:58 2021  ,kernel-3.10.0-1160.25.1.el7.x86_64,3.10.0-1160.88.1.el7
-inv1967.nxdi.nl-cdc01.nxp.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 19:24:43 CEST 2023,531,Sun Nov 21 05:21:25 2021  ,kernel-3.10.0-1160.41.1.el7.x86_64,3.10.0-1160.88.1.el7
-inv1642667626.in-blr01.nxp.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 22:54:57 IST 2023,275,Thu Jan 20 15:12:00 2022  ,kernel-3.10.0-1160.49.1.el7.x86_64,3.10.0-1160.88.1.el7
+inv2279.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:23:27 MST 2023,283,Wed Jul 27 01:28:21 2022  ,kernel-3.10.0-1160.66.1.el7.x86_64,3.10.0-1160.88.1.el7
+inv2307.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:23:43 MST 2023,93,Tue Mar 2 04:28:47 2021  ,kernel-3.10.0-1160.15.2.el7.x86_64,3.10.0-1160.88.1.el7
+inv1628079230.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:24:00 MST 2023,106,Wed Aug 4 06:21:24 2021  ,kernel-3.10.0-1160.25.1.el7.x86_64,3.10.0-1160.88.1.el7
+inv1628079117.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 10:24:23 MST 2023,371,Wed Aug 4 06:19:58 2021  ,kernel-3.10.0-1160.25.1.el7.x86_64,3.10.0-1160.88.1.el7
+inv1967.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 19:24:43 CEST 2023,531,Sun Nov 21 05:21:25 2021  ,kernel-3.10.0-1160.41.1.el7.x86_64,3.10.0-1160.88.1.el7
+inv1642667626.com,Red Hat Enterprise Linux Server release 7.9 (Maipo),Sat May  6 22:54:57 IST 2023,275,Thu Jan 20 15:12:00 2022  ,kernel-3.10.0-1160.49.1.el7.x86_64,3.10.0-1160.88.1.el7
